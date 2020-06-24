@@ -1,0 +1,21 @@
+Quero uma tabela de usuario:
+- id(int, AI, UN, PK, NN)
+- nome(varchar, NN)
+- email(varchar, NN, UN)
+- usario_ativo(bool, NN, DEFAULT: TRUE)
+- senha(varchar, NN)
+
+
+id nome email senha
+1  João @jb     123
+2  João @jbf    123
+
+
+
+
+HTML
+
+1  João @jb     123
+2  João @jbf    123
+  
+  1

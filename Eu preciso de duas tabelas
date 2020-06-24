@@ -1,0 +1,5 @@
+Eu preciso de duas tabelas
+
+- Tabela cargo com id(não nulo, chave primaria, auto_incremento) e nome(não nulo)
+- Tabela funcionario id(não nulo, chave primaria, auto_incremento), nome(não nulo), salario(não nulo)
+"kill this love"``
